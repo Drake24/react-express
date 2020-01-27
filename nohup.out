@@ -1,0 +1,16 @@
+internal/modules/cjs/loader.js:615
+    throw err;
+    ^
+
+Error: Cannot find module '/home4/drake24/public_html/expressdemo.com/file.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:613:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:539:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:801:12)
+    at internal/main/run_main_module.js:21:11
+Server running at http://127.0.0.1:3000/
+Server running at http://127.0.0.1:3000/
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mapp.js[39m
+Server running at http://127.0.0.1:3000/
+Server running at http://127.0.0.1:3000/
